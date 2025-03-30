@@ -22,7 +22,7 @@ For emergencies, **the SOS button triggers a 911 call while simultaneously shari
 - **Frontend:** Flutter (for mobile)
 - **Backend:** DART
 - **Database:** Firebase
-- **Data Sources:**
+- **Data Sources:** NYPD FBI Crime Reports
 - **APIs:** Google Maps API (visualization), Twilio (alerts via SMS)
 
 ## Use case
