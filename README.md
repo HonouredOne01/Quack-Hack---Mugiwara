@@ -1,6 +1,6 @@
 # QUACKSHIELDS
 
-## Team Name: Lumos
+## Team Name: QUACK SHIELDS
 
 ### Team Members:
 1. Hariharasubrahmaniam Arulvanan
